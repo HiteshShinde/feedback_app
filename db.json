@@ -1,0 +1,14 @@
+{
+  "feedback": [
+    {
+      "id": "1",
+      "rating": 9,
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel consectetur."
+    },
+    {
+      "id": "1756392621603",
+      "rating": 5,
+      "text": "Average stuff"
+    }
+  ]
+}
